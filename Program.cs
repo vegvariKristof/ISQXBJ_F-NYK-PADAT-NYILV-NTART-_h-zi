@@ -8,7 +8,6 @@ namespace ISQXBJ_FÉNYKÉPADAT_NYILVÁNTARTÓ_házi
         {
             Console.WriteLine("Hello World!");
             string s;
-            
         }
     }
 }
